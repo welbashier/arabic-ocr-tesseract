@@ -1,5 +1,5 @@
 # arabic-ocr-tesseract
-A Java web-app for recognizing Arabic scripts written in an image and writing the contents to a file as text.
+A Java application for recognizing Arabic typed-in scripts written in an image and writing the contents to a file as text.
 
 Initial step(s):
 ================
